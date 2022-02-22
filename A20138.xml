@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The demau[n]des ioyous</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1511</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20138</idno>
+            <idno type="STC">STC 6573</idno>
+            <idno type="STC">ESTC S109526</idno>
+            <idno type="EEBO-CITATION">99845173</idno>
+            <idno type="PROQUEST">99845173</idno>
+            <idno type="VID">10059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 34:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The demau[n]des ioyous</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>In Flete strete at the sygne of the sonne by me wynkyn de worde,</publisher>
+                  <pubPlace>[Enprynted at London :</pubPlace>
+                  <date>In the yere of our lorde a M.CCCCC. and xi.] [1511]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Riddles.</note>
+                  <note>Signatures: [A]⁶ ([A]6 blank).</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Riddles --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10059:1"/>
+            <!-- PDF PAGE 13 -->
+            <pb facs="tcp:10059:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>
+               <figure>
+                  <head>¶ The demau<g ref="char:cmbAbbrStroke">̄</g>des Joyous.</head>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:10059:2"/>
+            <!-- PDF PAGE 14 -->
+            <p>DEmaunde. who bare y<hi rend="sup">e</hi> beſt burden that euer was borne. ℟. That bare y<hi rend="sup">e</hi> aſſe wha<g ref="char:cmbAbbrStroke">̄</g> our lady fled with our lorde in to egypte. ¶ Demaunde. where became y<hi rend="sup">e</hi> aſſe that our lady rode vpon. ℟. Adams moder de de ete her. ¶ Demaunde. who was Adams moder. ℟. The erthe. ¶ Demaunde. what ſpace is from y<hi rend="sup">e</hi> hy eſt ſpace of the ſe to the depeſt. ℟. But a ſtones caſt ¶ Demau<g ref="char:cmbAbbrStroke">̄</g>de. wha<g ref="char:cmbAbbrStroke">̄</g> autecryſt is come in to this worl<g ref="char:EOLhyphen"/>de what thynge ſhall be hardeſt to hym to knowe. ℟. A hande barowe / for of that he ſhall not knowe whi<g ref="char:EOLhyphen"/>che ende ſhall goo before. ¶ Demaunde. How many calues tayles behoueth to reche frome the erthe to the ſkye. ℟. Nomore but one &amp; it be longe ynough. ¶ De maunde <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> How many holy dayes be there i the yere y<hi rend="sup">e</hi> neuerfall on the ſondayes. ℟. There be eyght that is to were y<hi rend="sup">e</hi> thre holy dayes after Eeſter. iii. after whyt<g ref="char:EOLhyphen"/>ſondaye / the holy aſcencyon daye / and corpus cryſty daye. ¶ Demau<g ref="char:cmbAbbrStroke">̄</g>de. whiche ben y<hi rend="sup">e</hi> trulyeſt tolde thyn<g ref="char:EOLhyphen"/>ges in the worlde. ℟. Thoſe be y<hi rend="sup">e</hi> ſteyres of chambres and houſes. ¶ Demaunde. whiche parte of aſergeau<g ref="char:cmbAbbrStroke">̄</g> te loue ye beſt to warde you. ℟. His heles. ¶ Demau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>de. whiche is the beſt wood and leeſt brente. ℟ Vy<g ref="char:EOLhyphen"/>nes. ¶ Demaunde. whiche is the mooſt profytable beeſt &amp; that men eteth leeſt of. ℟. That is bees. ¶ De maunde. whiche is the brodeſt water and leeſt Ieo<g ref="char:EOLhyphen"/>perdye to paſſe ouer. ℟. The dewe. ¶ Demaunde. what thynges is it that the more that one drynketh y<hi rend="sup">e</hi> leſſe he ſhall pyſſe. ℟. It is fartes &amp; fyeſtes / for Who that drynketh a hondreth thouſande they ſhall neuer
+<pb facs="tcp:10059:2"/>
+               <!-- PDF PAGE 14 -->pyſſe a droppe. ¶ Demaunde what thynge is it that neuer was nor ne<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſhall be. ℟. Neuer mouſe ma<g ref="char:EOLhyphen"/>de her neſt in a cattes ere. ¶ Demaunde. why dryue men dogges out of the chyrche. ℟. Bycauſe they co<g ref="char:EOLhyphen"/>me not vp and offre. ¶ Demaunde. why come dog<g ref="char:EOLhyphen"/>ges ſo often to the chyrche. ℟. Bycauſe whan they ſe the aulters couered they wene theyr mayſters goo thyder to dyner. ¶ Demaunde. why dooth a dogge thourne hym thryes aboute or y<hi rend="sup">e</hi> he lyeth hym downe. ℟. Bycauſe he knoweth not his beddes hede frome the fete. ¶ Demaunde. why doo men make an ouen in the towne. ℟. For bycauſe they can not make the towne in the ouen. ¶ Demaunde. what beeſt is it that hath her tayle bytwene her eyen. ℟. it is a catte whan ſhe lycketh her arſe. ¶ Demaunde. whiche is the mooſt cleynelyeſt lefe amonge all other leues. ℟. it is holly leues / for noo body wyll not wype his arſe with them. ¶ Demaunde. who was he that lete the fyrſt farte at rome. ℟. That was the arſe. ¶ Demau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>de. How may a man knowe or perceyue acowe in a flocke of ſhepe. ℟. By ſyghte. ¶ Demaunde. what thynge is it that hathe hornes at the arſe. ℟. It is a ſacke. ¶ Demaunde. what almes is worſt beſtowed that men gyue. ℟. That is to a blynde man / for as he hathe ony thynge gyuen hym / he wolde with good wyll ſe hym hanged hy the necke that gaue it hym. ¶ Demaunde. wherfore ſet the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vpon chyrche ſte<g ref="char:EOLhyphen"/>ples more a cocke than a henne. ℟. yf men ſholde ſette there a henne ſeh wolde laye egges / and tehy wolde fall vpon mennes hedes. ¶ Demaunde what thynge is it that hathe none ende. ℟. A bowle. ¶ Demaun<g ref="char:EOLhyphen"/>de.
+<pb facs="tcp:10059:3"/>
+               <!-- PDF PAGE 15 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:10059:3"/>
+               <!-- PDF PAGE 15 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:10059:4"/>
+               <!-- PDF PAGE 16 -->what wode is it that ne<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reſte vpon. ℟. The claper of a lazers dyſſhe. D<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>au<g ref="char:cmbAbbrStroke">̄</g>de how wolde ye ſaye two pater noſters for your frendes ſoule / and god neuer made but one pater noſter. ℟. Saye one two tymes. Demaunde whiche ben the mooſt profy<g ref="char:EOLhyphen"/>table ſayntes in the chyrche. ℟. They that ſtonde in y<hi rend="sup">e</hi> glaſſe wyndowes / for they kepe out y<hi rend="sup">e</hi> wynde for waſ<g ref="char:EOLhyphen"/>tynge of the lyght. Demau<g ref="char:cmbAbbrStroke">̄</g>de. what people be they y<hi rend="sup">e</hi> neuer go a proceſſyon. ℟. They be thoſe that rynge y<hi rend="sup">e</hi> belles ein y<hi rend="sup">e</hi> meane ſeaſon. Demau<g ref="char:cmbAbbrStroke">̄</g>de what is it y<hi rend="sup">e</hi> fre<g ref="char:EOLhyphen"/>ſeth neuer. ℟. That is hote water. Demau<g ref="char:cmbAbbrStroke">̄</g>de. what thy<g ref="char:cmbAbbrStroke">̄</g>ge is that / y<hi rend="sup">t</hi> is mooſt lykeſt vnto a hors. ℟. That is a mare. ¶ Demau<g ref="char:cmbAbbrStroke">̄</g>de. wherfore be there not as ma<g ref="char:EOLunhyphen"/>ny women conteyned in y<hi rend="sup">e</hi> daunce of poules as there be men. ℟. By cauſe a women is ſo ferefull of herte that ſhe had leuer daunce amonge quycke folke than deed. ¶ Demaunde whiche is the clenlyeſt occupacy<g ref="char:EOLhyphen"/>on that is. ℟. That is a dauber / for he may neyther ſhyte nor ete tyll he hath waſſhed his handes. ¶ De<g ref="char:EOLhyphen"/>maunde. what daye in the yere ben the flyes mooſt a<g ref="char:EOLhyphen"/>ferde. ℟. That is on palme ſonday wha<g ref="char:cmbAbbrStroke">̄</g> they ſe euery body haue an handeful of palme in theyr hande / they wene it is to kyll theym w<hi rend="sup">t</hi>. ¶ Demaunde what tyme of the yere may maydens mooſt with theyr honeſte fyeſt in the chyrche. ℟. In lent ſeaſon / for than euery ſayntes noſe and face is couered ſo that they ſmell no thynge ¶ Demaunde. what thynge is it the leſſe it is the more it is dredde. ℟. A brydge. ¶ Demaunde. wherfore is it that yonge chyldren wepe as ſoone as euer they ben borne. ℟. Bycauſe theyr moder is noo more mayden. ¶ Demaunde. wherfore is it that an
+<pb facs="tcp:10059:4"/>
+               <!-- PDF PAGE 16 -->aſſe hathe ſo grete <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. ℟. Bycauſe het moder put no begyn on her heed in her yought. ¶ Demau<g ref="char:cmbAbbrStroke">̄</g>de what is it that is a wryte and is no man / and he do the that no man can / and yet it ſerueth bothe god and man, ℟. That is a be. ¶ Demau<g ref="char:cmbAbbrStroke">̄</g>de. whiche was fyrſt y<hi rend="sup">e</hi> henne or y<hi rend="sup">e</hi> egge. ℟. The henne wha<g ref="char:cmbAbbrStroke">̄</g> god made her. ¶ De<g ref="char:EOLhyphen"/>maunde. why do the an oxe or a cowe lye. ℟. Bycau<g ref="char:EOLhyphen"/>ſe ſhe can not fytte. ¶ Demau<g ref="char:cmbAbbrStroke">̄</g>de what people be they that loue not in no wyſe to be prayed for. ℟. They be beggers &amp; poore people wha<g ref="char:cmbAbbrStroke">̄</g> men ſay god helpe them whan they aſke aimes. ¶ Demau<g ref="char:cmbAbbrStroke">̄</g>de How many ſtra wes go to a goſe neſt. ℟. None for lacke of fete. ¶ De<g ref="char:EOLunhyphen"/>maunde. what tyme in the yere bereth a goſe mooſt feders. ℟. whan the gander is vpon her backe. ¶ De<g ref="char:EOLunhyphen"/>maunde what was he that flewe the fourth parte of the worlde. ℟. Cayne whan that he ſlewe his broder abell in the whiche tyme was but foure perſones in the worlde. ¶ Demaunde. what was he that was be goten or his fader / and borne or his moder / and had the maydenhede of his beldame. ℟. That was Abell ¶ Demaunde. what thre thynges be they that the worlde is mooſt mayntened by. ℟. That is to were by wordes erbes and ſtones. why with wordes man worſhyppeth god / and as of erbes that is all maner of corne that man is fedde with / and as ſtones one is that gryndeth the corne and the other encreaſeth the worlde. De. what is y<hi rend="sup">e</hi> aege of a felde mous. ℟. Ayere And a hedge may ſtande thre mous lyues / and the ly<g ref="char:EOLunhyphen"/>fe of a dogge is the terme of thre hedges ſtandynge &amp; the lyfe of a hors is thre dogges lyues / and the lyfe of a man is thre hors lyues / and the lyfe of a goſe is thre
+<pb facs="tcp:10059:5"/>
+               <!-- PDF PAGE 17 -->mennes lyues / and y<hi rend="sup">e</hi> lyfe of a ſwanns <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and the lyfe of a ſwalowe is thre ſwanne lyues and the lyfe of an egle is thre ſwalowes lyues / and the ly<g ref="char:EOLhyphen"/>fe of a ſerpent is thre egles lyues / and the lyfe of a ra<g ref="char:EOLhyphen"/>uen is thre ſerpentes lyues / and the lyfe of a harte is thre rauens lyues / and an oke groweth. v. hondreth yere / and it ſtandeth in one ſtate fyue hondreth yere and it fadeth fyue hondreth yere beſyde the rote why the doubleth thre tymes eueryche of the thre aeges a foreſayd. ¶ Demaunde. A man had thre doughters of thre aeges / whiche doughters he delyuered to ſell certayne apples / and he toke to the ledeſt doughter. l. apples / and to the ſeconde. xxx. apples / and to the yon<g ref="char:EOLunhyphen"/>geſt ten apples / and all theſe thre ſolde in lyke many for a peny / and brought home in lyke moche money now how many ſolde eche of them for a peny. ℟. The yongeſt ſolde fyrſt ſeuen for a peny / and the other two ſyſters ſolde after the ſame pryce / than y<hi rend="sup">e</hi> eldeſt ſyſter had one odde apple lefte / and the ſeconde ſyſter two / and the yongeſt thrs apples / now theſe apples lyked the byer ſoo well that in contynent he came agayne to the yongeſt ſyſter and bought of her thre apples after thre pens a pece / than had ſhe ten pens / and the ſecon be thoughte ſhe wolde kepe the ſame pryce / and ſolde her two apples for thre pens a pece and than had ſhe ten pens / &amp; y<hi rend="sup">e</hi> eldeſt ſolde her one apple for thre pens / &amp; than had ſhe ten pens / thus ſolde they in lyke many apples for a peny and broughte home in lyke moche money. ¶ Demaunde. what man is he that geteth his lyuynge bacwarde. reſ. That is rope maker. ¶ De<g ref="char:EOLhyphen"/>maunde. what people be the that geteth theyr lyuyn<g ref="char:EOLhyphen"/>ge
+<pb facs="tcp:10059:5"/>
+               <!-- PDF PAGE 17 -->moo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> merylyeſt. ℟. Tho be preſtes &amp; fullers / for one ſyngeth and the other daunceth. ¶ Demaunde. what is he that made all and ſolde all / &amp; he y<hi rend="sup">e</hi> bought all loſte all ℟. Aſmyth made an alle and ſolde it / and the ſhomaker y<hi rend="sup">e</hi> bought it loſt it. ¶ Demaunde whe<g ref="char:EOLhyphen"/>ther is it bett to lyue by thefte or by almes dedes. ℟. The rewarde of thefte is to behanged / and yf thou ly ue by almes dedes that is by beggers tordes ⁂</p>
+            <p>¶ Thus endeth y<hi rend="sup">e</hi> Demaundes Ioyous Enprynted at London in Flete ſtre te at the ſygne of the ſonne by me wynkynde worde. In the yere of our lorde a M. CCCCC. and xi. ⁂</p>
+            <pb facs="tcp:10059:6"/>
+            <!-- PDF PAGE 18 -->
+            <figure>
+               <head>wynkyn de worde</head>
+               <figDesc>printer's device of Wynkyn de Worde</figDesc>
+            </figure>
+            <pb facs="tcp:10059:6"/>
+            <!-- PDF PAGE 18 -->
+         </div>
+      </body>
+   </text>
+</TEI>
